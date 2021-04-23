@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'homework9',
+    title: 'Greywood School: A School With Awesome Instructors!',
     htmlAttrs: {
       lang: 'en'
     },
